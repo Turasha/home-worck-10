@@ -1,0 +1,6 @@
+.users-ul li{
+    display: block;
+}
+.users-ul li.none{
+    display: none;
+}
